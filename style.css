@@ -1,0 +1,29 @@
+
+body {
+    border-color: #d4d4d4;
+}
+
+.blok {
+    text-align: center;
+    height: 80px;
+}
+
+.col1 {
+    background-color: red;
+}
+
+.col2 {
+    background-color: brown;
+}
+.col3 {
+    background-color: yellow;
+}
+.col4 {
+    background-color: green;
+}
+.col5 {
+    background-color: blue;
+}
+.col6 {
+    background-color: violet;
+}
